@@ -20,4 +20,4 @@
 //console.log(a,typeof a)
 //var a='smart'
 //console.log(a.slice(0))
-console.log ("hello")
+//console.log ("hello")
