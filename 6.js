@@ -143,34 +143,34 @@
 a=63 ,b=13 ,c=9
 if (a>b){
     console.log(`${a} is greater than ${b} `)
-}
-if (b>a){
+}else if(b>a) {
     console.log(`${b} is greater than ${a}`)
 }
 if (c>a){
     console.log(`${c} is greater than ${a}`)
-}
-if (c<a){
+}else if(c<a){
     console.log(`${c} is less than ${a}`)
 }
 if(b>c){
     console.log(`${b} is greater than ${c}`)
 }
-if(b<c){
+else if(c>b){
     console.log(`${c} is greater than ${b}`)
 }
 if (a<c && b<c){
     console.log("a and b is less than c")
 }
-if(a>c && b>c){
+else if(a>c && b>c){
     console.log("a and b is greater than c")
 }
 if(b>a && c>a){
     console.log("b and c is greater than a")
 }
-if(b<a && c<a){
+else if(b<a && c<a){
     console.log("b and c is less than a")
 }
-
+else {
+    console.log("a,b,c are equal")
+}
 
 
