@@ -52,18 +52,40 @@
 // s=' '
 // for(i=1;i<=a.length;i++){
 //     for(j=0;j<=a.length;j++)
-//       s=s+'**'+a[i]
-      
-      
-// }
-//     console.log(a[0]+s)
+//       s=a+'**'+a}
+//      console.log(a[0]+s)
     
-var a='******'
-s=''
-for(i=1;i<=a.length;i++){
-    s=s+a;
-    console.log(s)
-}
+// var b='*'
+// s=''
+// for(i=1;i<5;i++){
+//     s=s+b;
+//     console.log(s)
+// }
 
+// var a="code"
+// s=''
+// console.log(a.length)
+// for(i=0;i<a.length;i++){
+//     s=s+a[i]+'**';
+//     console.log(s)
+// }
+
+// a=''
+// count=1
+// for (let i=8;i>=0;i--){
+//         a = a + i 
+//         console.log(a)
+        
+//     }
+// console.log(count)
+
+let n=5
+let string=''
+for(let i=0;i<n;i++){
+    for(let j=0;j<n;j++){
+        string=string
+    }
+}
+    
 
 
