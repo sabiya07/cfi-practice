@@ -131,3 +131,15 @@
     
 //     console.log(space,star)
 // }
+
+
+
+// let a=[90,1,2,3,4,89,100]
+
+// let max =a[0]
+// for(i=1;i<=a.length;i++){
+//     if(max<a[i]){
+//     max=a[i]
+// }}console.log(max)
+
+
