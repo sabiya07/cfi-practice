@@ -23,14 +23,16 @@
 
 // }}
 
-// var a=30;
-// permission=1
+// var a=40;
+// var permission='t'
 
 // if (a>=75){
 //     console.log('allow to write exam')
-// }else if (a<=75 && permission==1 ){
+// }
+// else if (a<=75 && permission=='t' ){
 //     console.log('permission given to write exam')
-// }else{
+// }
+// else{
 //     console.log('not allowed to write the exam')
 // }
 
@@ -56,7 +58,8 @@
 
 //     }
 //     i++
-// }
+//
+
 
 
 
