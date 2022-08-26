@@ -1,0 +1,23 @@
+{
+  "name": "cfi-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabiya07/cfi-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabiya07/cfi-practice/issues"
+  },
+  "homepage": "https://github.com/sabiya07/cfi-practice#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
