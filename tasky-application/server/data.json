@@ -1,0 +1,25 @@
+[
+    {
+        "user_id": "qPzA7p0Plz8Q4skF",
+        "firstname": "mohammed",
+        "lastname": "sabiya",
+        "password": "$2b$12$g4nfHqDkHYA5QWY8Lw2FRes6erDByVK2e6/ZibWXj3mLOC/4VLs52",
+        "address": "ecil",
+        "phone": "+919014828737",
+        "email": "mohammedsabiya2@gmail.com",
+        "tasks": [
+            {
+                "task_id": "nP4MxkOLwPmT6K",
+                "task_name": "Submit Week 11 PR",
+                "deadline": "2022-09-14T10:48:11.000Z",
+                "isCompleted": false
+            },
+            {
+                "task_id": "K5nxBPmJZBnG8m",
+                "task_name": "Submit Week 11 PR",
+                "deadline": "2022-09-14T10:48:11.000Z",
+                "isCompleted": false
+            }
+        ]
+    }
+]
