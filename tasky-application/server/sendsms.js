@@ -6,7 +6,7 @@ const authToken = "87d64e5f6fa6479549003e6f4c5423b5";
 const client = new twilio(accountSid, authToken);
 
 let smsbody={
-    body:"uno ek do din thoda dull the yaad hai uske baad uno ab jo bhi ho adnan ku puchlete ,like ab poora concentrate",
+    body:" concentrate",
     to:"+919394804040"
 }
 async function sendsms(smsbody) {
