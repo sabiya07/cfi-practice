@@ -134,7 +134,7 @@
     //         i+=2
     //     }
 
-    //array
+    // array
     // a={1 :'a',2:'b',3:'c'}
     //     console.log(a)
     //     l = object.keys(a)
