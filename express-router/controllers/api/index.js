@@ -1,5 +1,5 @@
 import express from "express";
-import { loginValidation,registerValidation, errorMiddleware } from "../../middleware/validation/index.js"
+import { loginValidation, registerValidation, errorMiddleware } from "../../middleware/validation/index.js"
 
 const router = express.Router();
 
